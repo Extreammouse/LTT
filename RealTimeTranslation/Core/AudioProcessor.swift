@@ -240,4 +240,4 @@ enum AudioProcessorError: Error, LocalizedError {
             return "Microphone permission denied"
         }
     }
-} 
+}
